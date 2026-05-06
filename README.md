@@ -13,14 +13,17 @@ By night, I'm working on personal projects to learn low level programming using 
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-<a href="https://www.credly.com/badges/3e36abac-22ff-4aba-b9ea-58c8e1cd2d27" target="_blank">
-  <img src="https://images.credly.com/size/150x150/badges/3e36abac-22ff-4aba-b9ea-58c8e1cd2d27/image.png" alt="Credly Badge" width="150" height="150" />
-</a>
+### 🐧 Linux Kernel Development (LFD103) – The Linux Foundation
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3e36abac-22ff-4aba-b9ea-58c8e1cd2d27" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![LFD103 Badge](https://images.credly.com/size/340x340/images/3e36abac-22ff-4aba-b9ea-58c8e1cd2d27/image.png)](https://www.credly.com/badges/3e36abac-22ff-4aba-b9ea-58c8e1cd2d27)
 
+- Completed **LFD103: A Beginner’s Guide to Linux Kernel Development**
+- Focused on kernel fundamentals, modules, and low-level systems concepts
+- Issued by **The Linux Foundation**
+
+🔗 https://www.credly.com/badges/3e36abac-22ff-4aba-b9ea-58c8e1cd2d27
 ---
 
 ## Let's Connect
