@@ -2,13 +2,13 @@ Just another software engineer reinventing the wheel, nothing revolutionary.
 
 Working as **Associate Software Developer** at [ProgressSoft](https://www.progressoft.com/), working on payment processing systems and financial integrations.  
 
-By night, I'm working on personal projects to learn low level programming using C/C++ because apparently that's how I have fun.  
+By night, I'm working on personal projects to learn low level programming using C because apparently that's how I have fun.  
 
 ---
 
 ## 🔨 What I'm Building
 
-- ✅ Built **clox & klox** – Lox interpreters in C/C++ (from *Crafting Interpreters*)
+- ✅ Built **clox & klox** – Lox interpreters in C/kotlin (from *Crafting Interpreters*)
 - 🔄 Currently building my own **Git implementation**
 - 🧠 Deep diving into **Linux kernel development**
 - 🌍 Still planning: web server, database (yes, still reinventing everything)
