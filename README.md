@@ -1,15 +1,32 @@
-Just another software engineer reinventing the wheel, nothing revolutionary.
-Working as **Associate Software Developer** at [ProgressSoft](https://www.progressoft.com/), working on payment processing systems and financial integrations.
-By night, I'm working on personal projects to learn low level programming using C/C++ because apparently that's how I have fun. Currently working through:
-- 🔨 Building **clox** – a Lox interpreter in C (because why not)
-- 🌍 Planning my own web server, git implementation, and database (the "reinvent the wheel" challenge)
-**What I actually know:**
-- **Backend:** Java, Kotlin, Spring Boot, payment systems that don't lose money, I used before other technologies like (php, laravel, next.js)
-- **Systems:** C, memory management, actually understanding what's happening under the hood
-- **Databases:** PostgreSQL, MySQL, Oracle (and one day, my own)
-- **Tools:** Linux (obviously), Neovim (obviously), Ghostty, fzf, zoxide
-- **Devops:** OpenTelemtry, Datadog, and other observability tools, Docker, Podman, Kuburnetes, Git, GitHub Actions, Gitlab CI
-**Philosophy:** I love functional programming, and writing tests
+Just another software engineer reinventing the wheel, nothing revolutionary.  
+
+Working as **Associate Software Developer** at [ProgressSoft](https://www.progressoft.com/), working on payment processing systems and financial integrations.  
+
+By night, I'm working on personal projects to learn low level programming using C/C++ because apparently that's how I have fun.  
+
+---
+
+## 🔨 What I'm Building
+
+- ✅ Built **clox & klox** – Lox interpreters in C/C++ (from *Crafting Interpreters*)
+- 🔄 Currently building my own **Git implementation**
+- 🧠 Deep diving into **Linux kernel development**
+- 🌍 Still planning: web server, database (yes, still reinventing everything)
+
+---
+
+## 🧠 What I Actually Know
+
+- **Backend:** Java, Kotlin, Spring Boot, payment systems that don't lose money  
+  _(also used: PHP, Laravel, Next.js)_
+
+- **Systems:** C, memory management, actually understanding what's happening under the hood  
+
+- **Databases:** PostgreSQL, MySQL, Oracle (and one day, my own)  
+
+- **Tools:** Linux (obviously), Neovim (obviously), Ghostty, fzf, zoxide  
+
+- **DevOps:** OpenTelemetry, Datadog, Docker, Podman, Kubernetes, Git, GitHub Actions, GitLab CI  
 
 ---
 
@@ -23,10 +40,16 @@ By night, I'm working on personal projects to learn low level programming using 
 - Focused on kernel fundamentals, modules, and low-level systems concepts
 - Issued by **The Linux Foundation**
 
-🔗 https://www.credly.com/badges/3e36abac-22ff-4aba-b9ea-58c8e1cd2d27
 ---
 
-## Let's Connect
+## ⚙️ Philosophy
+
+I love functional programming, and writing tests.
+
+---
+
+## 🤝 Let's Connect
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/aymane-el-maini/)
 - 𝕏 [Twitter/X](https://x.com/MainiAymane)
 - 📧 [aymane.elmaini@progressoft.com](mailto:aymane.elmaini@progressoft.com)
