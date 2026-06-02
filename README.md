@@ -1,6 +1,8 @@
 Just another software engineer reinventing the wheel, nothing revolutionary.  
 
-Working as **Associate Software Developer** at [ProgressSoft](https://www.progressoft.com/), working on payment processing systems and financial integrations.  
+Currently working at [iMedia24](https://www.imedia24.de) as a Software Engineer.
+
+Previously worked as Associate Software Developer at [ProgressSoft](https://www.progressoft.com/), building payment processing systems and financial integrations.
 
 By night, I'm working on personal projects to learn low level programming using C because apparently that's how I have fun.  
 
