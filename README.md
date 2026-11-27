@@ -1,61 +1,29 @@
-Just another software engineer reinventing the wheel, nothing revolutionary.  
+# Aymane
 
-Currently working at [iMedia24](https://www.imedia24.de) as a Software Engineer.
+I build systems that move money, and I like the bugs nobody else wants to chase.
 
-Previously worked as Associate Software Developer at [ProgressSoft](https://www.progressoft.com/), building payment processing systems and financial integrations.
+Right now I'm writing Go, keeping Kotlin honest, and deciding whatever the problem asks for next.
 
-By night, I'm working on personal projects to learn low level programming using C because apparently that's how I have fun.  
+## Where I've been
 
----
+**[imedia24](https://www.imedia24.de)**: Software Engineer.
 
-## 🔨 What I'm Building
+**ProgressSoft**: payment processing and financial integrations. SWIFT and Visa flows, mandate management, distributed job scheduling, and tracing through the mess with OpenTelemetry.
 
-- ✅ Built **clox & klox** – Lox interpreters in C/kotlin (from *Crafting Interpreters*)
-- 🔄 Currently building my own **Git implementation**
-- 🧠 Deep diving into **Linux kernel development**
-- 🌍 Still planning: web server, database (yes, still reinventing everything)
+## Toolbox
 
----
+- **Languages:** Go, Kotlin, Java, C
+- **Data:** PostgreSQL, MySQL, Oracle
+- **Ship it:** Docker, Kubernetes, GCP, AWS, CDK, Terraform, GitHub Actions, GitLab CI
+- **Watch it:** OpenTelemetry, Datadog
+- **Daily driver:** Linux, Neovim, Ghostty, fzf, zoxide
 
-## 🧠 What I Actually Know
+## After hours
 
-- **Backend:** Java, Kotlin, Spring Boot, payment systems that don't lose money  
-  _(also used: PHP, Laravel, Next.js)_
+I take programming languages apart to see how they work, starting from *Crafting Interpreters* and ending up wherever the bytecode leads. I once gave a Devoxx lightning talk on compilers for beginners. *(add the link if the recording is public)*
 
-- **Systems:** C, memory management, actually understanding what's happening under the hood  
+## Say hi
 
-- **Databases:** PostgreSQL, MySQL, Oracle (and one day, my own)  
-
-- **Tools:** Linux (obviously), Neovim (obviously), Ghostty, fzf, zoxide  
-
-- **DevOps:** OpenTelemetry, Datadog, Docker, Podman, Kubernetes, Git, GitHub Actions, GitLab CI  
-
----
-
-## 📜 Certifications
-
-### 🐧 Linux Kernel Development (LFD103) – The Linux Foundation
-
-[![LFD103 Badge](https://images.credly.com/size/340x340/images/3e36abac-22ff-4aba-b9ea-58c8e1cd2d27/image.png)](https://www.credly.com/badges/3e36abac-22ff-4aba-b9ea-58c8e1cd2d27)
-
-- Completed **LFD103: A Beginner’s Guide to Linux Kernel Development**
-- Focused on kernel fundamentals, modules, and low-level systems concepts
-- Issued by **The Linux Foundation**
-
----
-
-## ⚙️ Philosophy
-
-I love functional programming, and writing tests.
-
----
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/aymane-el-maini/)
-- 𝕏 [Twitter/X](https://x.com/MainiAymane)
-- 📧 [aymane.elmaini@progressoft.com](mailto:aymane.elmaini@progressoft.com)
-
----
-
-*P.S. – If you're also into building things from first principles or have ideas about systems programming, let's talk. I'm always learning.*
+- LinkedIn: [aymane-el-maini](https://www.linkedin.com/in/aymane-el-maini/)
+- X: [@MainiAymane](https://x.com/MainiAymane)
+- Email: elmainiaymane03@gmail.com
